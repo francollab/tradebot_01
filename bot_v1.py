@@ -1,2 +1,1 @@
-msg = "Hola Paloma"
-print(msg)
+pip install python-binance pandas
